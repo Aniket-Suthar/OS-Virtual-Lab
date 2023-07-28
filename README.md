@@ -1,8 +1,6 @@
 
 # OS - Scheduling Algorithms Simulation Website
 
-![Project Logo](/path/to/project-logo.png)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
