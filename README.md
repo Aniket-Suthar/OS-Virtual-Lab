@@ -74,4 +74,4 @@ Contributions are welcome! If you find any bugs or want to add new features, ple
 
 ## Contact
 
-For any inquiries or suggestions, feel free to contact us at [your-email@example.com](mailto:apsuthar@example.com).
+For any inquiries or suggestions, feel free to contact us at [apsuthar24@gmail.com](mailto:apsuthar@example.com).
