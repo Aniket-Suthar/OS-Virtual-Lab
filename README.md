@@ -1,3 +1,3 @@
 ﻿# OS-Virtual-Lab
 
-![Alt text](./public/img/mainpage.png)
+![Alt text]("E:\NODE OS PROJECT\public\img\mainpage.png")
